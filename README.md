@@ -11,11 +11,11 @@ Google Fonts – For typography
 
 Font Awesome – For icons
 
-#Contribution
+# Contribution
 
 Contributions are welcome. If you would like to improve the design or add new features, feel free to fork the repository and submit a pull request.
 
-#Author
+# Author
 
 Developed as a practice project to improve HTML and CSS front-end development skills.
 
