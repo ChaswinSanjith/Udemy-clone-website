@@ -1,5 +1,5 @@
 # Udemy-clone-website
-Front-end Udemy clone created with HTML and CSS featuring course cards, navigation bar, and course sections.
+A simple Udemy clone website built using HTML and CSS to practice front-end layout and styling.
 
 # Techonologies used
 
