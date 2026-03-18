@@ -20,3 +20,6 @@ Contributions are welcome. If you would like to improve the design or add new fe
 Developed as a practice project to improve HTML and CSS front-end development skills.
 
 Thankyou for visiting my Udemy clone Website !!
+
+
+Project updated today
